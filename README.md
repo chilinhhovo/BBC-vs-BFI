@@ -16,4 +16,4 @@ App folder:
 >map.html - map with location of all directors' birthplaces
 
 Presentation: 
->presentation - final presentation 
+https://docs.google.com/presentation/d/1KppVxuEGj4B7DPQ0B45ZRDOKtcn3UU_8Ly0AVT059eM/edit?usp=sharing
