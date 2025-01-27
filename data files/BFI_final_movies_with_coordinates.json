@@ -1,0 +1,2378 @@
+[
+  {
+    "Films": "Born in Flames",
+    "Year": "1983",
+    "Year1": 1983,
+    "Country": null,
+    "Director": "Directed byLizzie Borden",
+    "latitude": 46.3144754,
+    "longitude": 11.0480288
+  },
+  {
+    "Films": "Pandora's Box",
+    "Year": "1928Germany",
+    "Year1": 1928,
+    "Country": "Germany",
+    "Director": "Directed byG.W. Pabst",
+    "latitude": 51.1638175,
+    "longitude": 10.4478313
+  },
+  {
+    "Films": "Sullivan's Travels",
+    "Year": "1941USA",
+    "Year1": 1941,
+    "Country": "USA",
+    "Director": "Directed byPreston Sturges",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Annie Hall",
+    "Year": "1977USA",
+    "Year1": 1977,
+    "Country": "USA",
+    "Director": "Directed byWoody Allen",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Earth",
+    "Year": "1930USSR, Ukrainian SSR",
+    "Year1": 1930,
+    "Country": "USSR, Ukrainian SSR",
+    "Director": "Directed byAlexander Dovzhenko",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "My Darling Clementine",
+    "Year": "1946USA",
+    "Year1": 1946,
+    "Country": "USA",
+    "Director": "Directed byJohn Ford",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Mouchette",
+    "Year": "1966France",
+    "Year1": 1966,
+    "Country": "France",
+    "Director": "Directed byRobert Bresson",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "A Clockwork Orange",
+    "Year": "1971USA, United Kingdom",
+    "Year1": 1971,
+    "Country": "USA, United Kingdom",
+    "Director": "Directed byStanley Kubrick",
+    "latitude": 52.2153827,
+    "longitude": 0.1258329
+  },
+  {
+    "Films": "A Canterbury Tale",
+    "Year": "1944United Kingdom",
+    "Year1": 1944,
+    "Country": "United Kingdom",
+    "Director": "Directed byMichael Powell, Emeric Pressburger",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "Videodrome",
+    "Year": "1983Canada",
+    "Year1": 1983,
+    "Country": "Canada",
+    "Director": "Directed byDavid Cronenberg",
+    "latitude": 61.0666922,
+    "longitude": -107.991707
+  },
+  {
+    "Films": "Possession",
+    "Year": "1981France, Federal Republic of Germany",
+    "Year1": 1981,
+    "Country": "France, Federal Republic of Germany",
+    "Director": "Directed byAndrzej Zulawski",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Soleil \u00d4",
+    "Year": "1970France",
+    "Year1": 1970,
+    "Country": "France",
+    "Director": "Directed byMed Hondo",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Distant Voices, Still Lives",
+    "Year": "1988United Kingdom, Federal Republic of Germany",
+    "Year1": 1988,
+    "Country": "United Kingdom, Federal Republic of Germany",
+    "Director": "Directed byTerence Davies",
+    "latitude": 51.6081847,
+    "longitude": -0.498172
+  },
+  {
+    "Films": "Nostalgia for the Light",
+    "Year": "2010France, Germany, Chile, Spain, USA",
+    "Year1": 2010,
+    "Country": "France, Germany, Chile, Spain, USA",
+    "Director": "Directed byPatricio Guzm\u00e1n",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Syndromes and a Century",
+    "Year": "2006Thailand, France, Austria, Netherlands",
+    "Year1": 2006,
+    "Country": "Thailand, France, Austria, Netherlands",
+    "Director": "Directed byApichatpong Weerasethakul",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "The Intruder",
+    "Year": "2004France, Republic of Korea",
+    "Year1": 2004,
+    "Country": "France, Republic of Korea",
+    "Director": "Directed byClaire Denis",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Morvern Callar",
+    "Year": "2001United Kingdom, Canada",
+    "Year1": 2001,
+    "Country": "United Kingdom, Canada",
+    "Director": "Directed byLynne Ramsay",
+    "latitude": 50.9625195,
+    "longitude": -1.5884921
+  },
+  {
+    "Films": "In Vanda's Room",
+    "Year": "2000Portugal, Germany, Switzerland",
+    "Year1": 2000,
+    "Country": "Portugal, Germany, Switzerland",
+    "Director": "Directed byPedro Costa",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Werckmeister Harmonies",
+    "Year": "2000Hungary, Germany, France, Switzerland, Italy",
+    "Year1": 2000,
+    "Country": "Hungary, Germany, France, Switzerland, Italy",
+    "Director": "Directed byB\u00e9la Tarr",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Taste of Cherry",
+    "Year": "1997Iran",
+    "Year1": 1997,
+    "Country": "Iran",
+    "Director": "Directed byAbbas Kiarostami",
+    "latitude": 32.6475314,
+    "longitude": 54.5643516
+  },
+  {
+    "Films": "The Quince Tree Sun",
+    "Year": "1992Spain",
+    "Year1": 1992,
+    "Country": "Spain",
+    "Director": "Directed byV\u00edctor Erice",
+    "latitude": 39.3260685,
+    "longitude": -4.8379791
+  },
+  {
+    "Films": "The Last Laugh",
+    "Year": "1924Germany",
+    "Year1": 1924,
+    "Country": "Germany",
+    "Director": "Directed byF.W. Murnau",
+    "latitude": 51.1638175,
+    "longitude": 10.4478313
+  },
+  {
+    "Films": "Harlan County, USA",
+    "Year": "1976USA",
+    "Year1": 1976,
+    "Country": "USA",
+    "Director": "Directed byBarbara Kopple",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Cries and Whispers",
+    "Year": "1972Sweden",
+    "Year1": 1972,
+    "Country": "Sweden",
+    "Director": "Directed byIngmar Bergman",
+    "latitude": 59.6749712,
+    "longitude": 14.5208584
+  },
+  {
+    "Films": "Star Wars",
+    "Year": "1977USA",
+    "Year1": 1977,
+    "Country": "USA",
+    "Director": "Directed byGeorge Lucas",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Intolerance",
+    "Year": "1916USA",
+    "Year1": 1916,
+    "Country": "USA",
+    "Director": "Directed byD.W. Griffith",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Hour of the Furnaces",
+    "Year": "1968Argentina",
+    "Year1": 1968,
+    "Country": "Argentina",
+    "Director": "Directed byFernando Solanas",
+    "latitude": -34.9964963,
+    "longitude": -64.9672817
+  },
+  {
+    "Films": "Europa '51",
+    "Year": "1952Italy",
+    "Year1": 1952,
+    "Country": "Italy",
+    "Director": "Directed byRoberto Rossellini",
+    "latitude": 42.6384261,
+    "longitude": 12.674297
+  },
+  {
+    "Films": "Napol\u00e9on",
+    "Year": "1927France",
+    "Year1": 1927,
+    "Country": "France",
+    "Director": "Directed byAbel Gance",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The Crowd",
+    "Year": "1928USA",
+    "Year1": 1928,
+    "Country": "USA",
+    "Director": "Directed byKing Vidor",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "A Touch of Zen",
+    "Year": "1969Taiwan",
+    "Year1": 1969,
+    "Country": "Taiwan",
+    "Director": "Directed byKing Hu",
+    "latitude": 23.5983227,
+    "longitude": 120.8353769448
+  },
+  {
+    "Films": "Je, tu, il, elle",
+    "Year": "1974Belgium",
+    "Year1": 1974,
+    "Country": "Belgium",
+    "Director": "Directed byChantal Akerman",
+    "latitude": 50.6402809,
+    "longitude": 4.6667145
+  },
+  {
+    "Films": "Petite maman",
+    "Year": "2021France",
+    "Year1": 2021,
+    "Country": "France",
+    "Director": "Directed byC\u00e9line Sciamma",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "As I Was Moving Ahead, Occasionally I Saw Brief Glimpses of Beauty",
+    "Year": "2000USA",
+    "Year1": 2000,
+    "Country": "USA",
+    "Director": "Directed byJonas Mekas",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Flowers of Shanghai",
+    "Year": "1998Taiwan, Japan",
+    "Year1": 1998,
+    "Country": "Taiwan, Japan",
+    "Director": "Directed byHou Hsiao-Hsien",
+    "latitude": 35.63753835,
+    "longitude": 139.7218629744
+  },
+  {
+    "Films": "Happy Together",
+    "Year": "1997Hong Kong",
+    "Year1": 1997,
+    "Country": "Hong Kong",
+    "Director": "Directed byWong Kar Wai",
+    "latitude": 22.350627,
+    "longitude": 114.1849161
+  },
+  {
+    "Films": "Crash",
+    "Year": "1996Canada",
+    "Year1": 1996,
+    "Country": "Canada",
+    "Director": "Directed byDavid Cronenberg",
+    "latitude": 61.0666922,
+    "longitude": -107.991707
+  },
+  {
+    "Films": "Blue",
+    "Year": "1993United Kingdom, Japan",
+    "Year1": 1993,
+    "Country": "United Kingdom, Japan",
+    "Director": "Directed byDerek Jarman",
+    "latitude": 51.5052847,
+    "longitude": -0.1461224454
+  },
+  {
+    "Films": "Grave of the Fireflies",
+    "Year": "1988Japan",
+    "Year1": 1988,
+    "Country": "Japan",
+    "Director": "Directed byIsao Takahata",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "The Green Ray",
+    "Year": "1986France",
+    "Year1": 1986,
+    "Country": "France",
+    "Director": "Directed byEric Rohmer",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "By the Bluest of Seas",
+    "Year": "1935USSR",
+    "Year1": 1935,
+    "Country": "USSR",
+    "Director": "Directed byBoris Barnet",
+    "latitude": 46.3421653,
+    "longitude": 48.0254474
+  },
+  {
+    "Films": "Duck Soup",
+    "Year": "1933USA",
+    "Year1": 1933,
+    "Country": "USA",
+    "Director": "Directed byLeo McCarey",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "All about Eve",
+    "Year": "1950USA",
+    "Year1": 1950,
+    "Country": "USA",
+    "Director": "Directed byJoseph L. Mankiewicz",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Brief Encounter",
+    "Year": "1945United Kingdom",
+    "Year1": 1945,
+    "Country": "United Kingdom",
+    "Director": "Directed byDavid Lean",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "Suspiria",
+    "Year": "1977Italy",
+    "Year1": 1977,
+    "Country": "Italy",
+    "Director": "Directed byDario Argento",
+    "latitude": 42.6384261,
+    "longitude": 12.674297
+  },
+  {
+    "Films": "In a Lonely Place",
+    "Year": "1950USA",
+    "Year1": 1950,
+    "Country": "USA",
+    "Director": "Directed byNicholas Ray",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Deer Hunter",
+    "Year": "1978USA",
+    "Year1": 1978,
+    "Country": "USA",
+    "Director": "Directed byMichael Cimino",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Army of Shadows",
+    "Year": "1969France, Italy",
+    "Year1": 1969,
+    "Country": "France, Italy",
+    "Director": "Directed byJean-Pierre Melville",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Melancholia",
+    "Year": "2011Denmark, Sweden, France, Germany, Italy",
+    "Year1": 2011,
+    "Country": "Denmark, Sweden, France, Germany, Italy",
+    "Director": "Directed byLars von Trier",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Twenty Years Later",
+    "Year": "1984Brazil",
+    "Year1": 1984,
+    "Country": "Brazil",
+    "Director": "Directed byEduardo Coutinho",
+    "latitude": -10.3333333,
+    "longitude": -53.2
+  },
+  {
+    "Films": "Twin Peaks: Fire Walk with Me",
+    "Year": "1992USA",
+    "Year1": 1992,
+    "Country": "USA",
+    "Director": "Directed byDavid Lynch",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Pink Flamingos",
+    "Year": "1972USA",
+    "Year1": 1972,
+    "Country": "USA",
+    "Director": "Directed byJohn Waters",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Raiders of the Lost Ark",
+    "Year": "1981USA",
+    "Year1": 1981,
+    "Country": "USA",
+    "Director": "Directed bySteven Spielberg",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Limite",
+    "Year": "1931Brazil",
+    "Year1": 1931,
+    "Country": "Brazil",
+    "Director": "Directed byM\u00e1rio Peixoto",
+    "latitude": -10.3333333,
+    "longitude": -53.2
+  },
+  {
+    "Films": "The Life and Death of Colonel Blimp",
+    "Year": "1943United Kingdom",
+    "Year1": 1943,
+    "Country": "United Kingdom",
+    "Director": "Directed byMichael Powell, Emeric Pressburger",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "Wavelength",
+    "Year": "1967Canada",
+    "Year1": 1967,
+    "Country": "Canada",
+    "Director": "Directed byMichael Snow",
+    "latitude": 61.0666922,
+    "longitude": -107.991707
+  },
+  {
+    "Films": "I Know Where I\u2019m Going!",
+    "Year": "1945United Kingdom",
+    "Year1": 1945,
+    "Country": "United Kingdom",
+    "Director": "Directed byMichael Powell, Emeric Pressburger",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "L' eclisse",
+    "Year": "1962Italy, France",
+    "Year1": 1962,
+    "Country": "Italy, France",
+    "Director": "Directed byMichelangelo Antonioni",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Double Indemnity",
+    "Year": "1944USA",
+    "Year1": 1944,
+    "Country": "USA",
+    "Director": "Directed byBilly Wilder",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Year": "1963United Kingdom, USA",
+    "Year1": 1963,
+    "Country": "United Kingdom, USA",
+    "Director": "Directed byStanley Kubrick",
+    "latitude": 52.2153827,
+    "longitude": 0.1258329
+  },
+  {
+    "Films": "One Way or Another",
+    "Year": "1977Cuba",
+    "Year1": 1977,
+    "Country": "Cuba",
+    "Director": "Directed bySara G\u00f3mez",
+    "latitude": 23.0131338,
+    "longitude": -80.8328748
+  },
+  {
+    "Films": "Nosferatu",
+    "Year": "1922Germany",
+    "Year1": 1922,
+    "Country": "Germany",
+    "Director": "Directed byF.W. Murnau",
+    "latitude": 51.1638175,
+    "longitude": 10.4478313
+  },
+  {
+    "Films": "Paisan",
+    "Year": "1946Italy",
+    "Year1": 1946,
+    "Country": "Italy",
+    "Director": "Directed byRoberto Rossellini",
+    "latitude": 42.6384261,
+    "longitude": 12.674297
+  },
+  {
+    "Films": "Zama",
+    "Year": "2017Argentina, Brazil, Spain, France, Mexico, Netherlands, Monaco, Portugal, USA, Lebanon, United Kingdom, Dominican Republic",
+    "Year1": 2017,
+    "Country": "Argentina, Brazil, Spain, France, Mexico, Netherlands, Monaco, Portugal, USA, Lebanon, United Kingdom, Dominican Republic",
+    "Director": "Directed byLucrecia Martel",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Mad Max: Fury Road",
+    "Year": "2015USA, Australia",
+    "Year1": 2015,
+    "Country": "USA, Australia",
+    "Director": "Directed byGeorge Miller",
+    "latitude": 38.26083395,
+    "longitude": -104.6595113652
+  },
+  {
+    "Films": "The Tree of Life",
+    "Year": "2010USA",
+    "Year1": 2010,
+    "Country": "USA",
+    "Director": "Directed byTerrence Malick",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Uncle Boonmee Who Can Recall His Past Lives",
+    "Year": "2010Thailand, United Kingdom, France, Germany, Spain, Netherlands",
+    "Year1": 2010,
+    "Country": "Thailand, United Kingdom, France, Germany, Spain, Netherlands",
+    "Director": "Directed byApichatpong Weerasethakul",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "The Headless Woman",
+    "Year": "2008Argentina, Spain, France, Italy",
+    "Year1": 2008,
+    "Country": "Argentina, Spain, France, Italy",
+    "Director": "Directed byLucrecia Martel",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Paris Is Burning",
+    "Year": "1990USA, United Kingdom",
+    "Year1": 1990,
+    "Country": "USA, United Kingdom",
+    "Director": "Directed byJennie Livingston",
+    "latitude": 52.2153827,
+    "longitude": 0.1258329
+  },
+  {
+    "Films": "Paris, Texas",
+    "Year": "1984Federal Republic of Germany, France, United Kingdom",
+    "Year1": 1984,
+    "Country": "Federal Republic of Germany, France, United Kingdom",
+    "Director": "Directed byWim Wenders",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Les Demoiselles de Rochefort",
+    "Year": "1967France",
+    "Year1": 1967,
+    "Country": "France",
+    "Director": "Directed byJacques Demy",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The Birds",
+    "Year": "1963USA",
+    "Year1": 1963,
+    "Country": "USA",
+    "Director": "Directed byAlfred Hitchcock",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The River",
+    "Year": "1951USA",
+    "Year1": 1951,
+    "Country": "USA",
+    "Director": "Directed byJean Renoir",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "An Autumn Afternoon",
+    "Year": "1962Japan",
+    "Year1": 1962,
+    "Country": "Japan",
+    "Director": "Directed byYasujir\u014d Ozu",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "Love Streams",
+    "Year": "1984USA",
+    "Year1": 1984,
+    "Country": "USA",
+    "Director": "Directed byJohn Cassavetes",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Greed",
+    "Year": "1923USA",
+    "Year1": 1923,
+    "Country": "USA",
+    "Director": "Directed byErich von Stroheim",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Ran",
+    "Year": "1985France, Japan",
+    "Year1": 1985,
+    "Country": "France, Japan",
+    "Director": "Directed byAkira Kurosawa",
+    "latitude": 48.8773269,
+    "longitude": 2.304121
+  },
+  {
+    "Films": "Pyaasa",
+    "Year": "1957India",
+    "Year1": 1957,
+    "Country": "India",
+    "Director": "Directed byGuru Dutt",
+    "latitude": 22.3511148,
+    "longitude": 78.6677428
+  },
+  {
+    "Films": "Wings of Desire",
+    "Year": "1987Federal Republic of Germany, France",
+    "Year1": 1987,
+    "Country": "Federal Republic of Germany, France",
+    "Director": "Directed byWim Wenders",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Magnolia",
+    "Year": "1999USA",
+    "Year1": 1999,
+    "Country": "USA",
+    "Director": "Directed byPaul Thomas Anderson",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Magnificent Ambersons",
+    "Year": "1942USA",
+    "Year1": 1942,
+    "Country": "USA",
+    "Director": "Directed byOrson Welles",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Hiroshima mon amour",
+    "Year": "1959France, Japan",
+    "Year1": 1959,
+    "Country": "France, Japan",
+    "Director": "Directed byAlain Resnais",
+    "latitude": 48.8773269,
+    "longitude": 2.304121
+  },
+  {
+    "Films": "Letter from an Unknown Woman",
+    "Year": "1948USA",
+    "Year1": 1948,
+    "Country": "USA",
+    "Director": "Directed byMax Ophuls",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Charulata",
+    "Year": "1964India",
+    "Year1": 1964,
+    "Country": "India",
+    "Director": "Directed bySatyajit Ray",
+    "latitude": 22.3511148,
+    "longitude": 78.6677428
+  },
+  {
+    "Films": "The Good, the Bad and the Ugly",
+    "Year": "1966Italy",
+    "Year1": 1966,
+    "Country": "Italy",
+    "Director": "Directed bySergio Leone",
+    "latitude": 42.6384261,
+    "longitude": 12.674297
+  },
+  {
+    "Films": "Red Desert",
+    "Year": "1964Italy, France",
+    "Year1": 1964,
+    "Country": "Italy, France",
+    "Director": "Directed byMichelangelo Antonioni",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Black Narcissus",
+    "Year": "1947United Kingdom",
+    "Year1": 1947,
+    "Country": "United Kingdom",
+    "Director": "Directed byMichael Powell, Emeric Pressburger",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "Memories of Underdevelopment",
+    "Year": "1968Cuba",
+    "Year1": 1968,
+    "Country": "Cuba",
+    "Director": "Directed byTom\u00e1s Guti\u00e9rrez Alea",
+    "latitude": 23.0131338,
+    "longitude": -80.8328748
+  },
+  {
+    "Films": "The Exterminating Angel",
+    "Year": "1962Mexico",
+    "Year1": 1962,
+    "Country": "Mexico",
+    "Director": "Directed byLuis Bu\u00f1uel",
+    "latitude": 19.4326296,
+    "longitude": -99.1331785
+  },
+  {
+    "Films": "Under the Skin",
+    "Year": "2013United Kingdom, USA, Switzerland",
+    "Year1": 2013,
+    "Country": "United Kingdom, USA, Switzerland",
+    "Director": "Directed byJonathan Glazer",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Heat",
+    "Year": "1995USA",
+    "Year1": 1995,
+    "Country": "USA",
+    "Director": "Directed byMichael Mann",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Symbiopsychotaxiplasm: Take One",
+    "Year": "1967USA",
+    "Year1": 1967,
+    "Country": "USA",
+    "Director": "Directed byWilliam Greaves",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Out 1",
+    "Year": "1990France",
+    "Year1": 1990,
+    "Country": "France",
+    "Director": "Directed byJacques Rivette",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Un chien andalou",
+    "Year": "1928France",
+    "Year1": 1928,
+    "Country": "France",
+    "Director": "Directed byLuis Bu\u00f1uel",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "L'Argent",
+    "Year": "1983France, Switzerland",
+    "Year1": 1983,
+    "Country": "France, Switzerland",
+    "Director": "Directed byRobert Bresson",
+    "latitude": 48.58896225,
+    "longitude": 7.7678483472
+  },
+  {
+    "Films": "Last Year at Marienbad",
+    "Year": "1961France, Italy",
+    "Year1": 1961,
+    "Country": "France, Italy",
+    "Director": "Directed byAlain Resnais",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Los olvidados",
+    "Year": "1950Mexico",
+    "Year1": 1950,
+    "Country": "Mexico",
+    "Director": "Directed byLuis Bu\u00f1uel",
+    "latitude": 19.4326296,
+    "longitude": -99.1331785
+  },
+  {
+    "Films": "Ikiru",
+    "Year": "1952Japan",
+    "Year1": 1952,
+    "Country": "Japan",
+    "Director": "Directed byAkira Kurosawa",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "Out of the Past",
+    "Year": "1947USA",
+    "Year1": 1947,
+    "Country": "USA",
+    "Director": "Directed byJacques Tourneur",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Vivre sa vie",
+    "Year": "1962France",
+    "Year1": 1962,
+    "Country": "France",
+    "Director": "Directed byJean-Luc Godard",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Amarcord",
+    "Year": "1972Italy, France",
+    "Year1": 1972,
+    "Country": "Italy, France",
+    "Director": "Directed byFederico Fellini",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Once upon a Time in America",
+    "Year": "1983USA, Italy",
+    "Year1": 1983,
+    "Country": "USA, Italy",
+    "Director": "Directed bySergio Leone",
+    "latitude": 32.1840381,
+    "longitude": -96.8847194
+  },
+  {
+    "Films": "The Gospel According to St. Matthew",
+    "Year": "1964Italy, France",
+    "Year1": 1964,
+    "Country": "Italy, France",
+    "Director": "Directed byPier Paolo Pasolini",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Where Is the Friend's House?",
+    "Year": "1987Iran",
+    "Year1": 1987,
+    "Country": "Iran",
+    "Director": "Directed byAbbas Kiarostami",
+    "latitude": 32.6475314,
+    "longitude": 54.5643516
+  },
+  {
+    "Films": "All about My Mother",
+    "Year": "1999Spain, France",
+    "Year1": 1999,
+    "Country": "Spain, France",
+    "Director": "Directed byPedro Almod\u00f3var",
+    "latitude": 48.86659315,
+    "longitude": 2.3004169899
+  },
+  {
+    "Films": "A City of Sadness",
+    "Year": "1989Taiwan",
+    "Year1": 1989,
+    "Country": "Taiwan",
+    "Director": "Directed byHou Hsiao-Hsien",
+    "latitude": 23.5983227,
+    "longitude": 120.8353769448
+  },
+  {
+    "Films": "Orlando",
+    "Year": "1992United Kingdom, Russian Federation, Italy, France, Netherlands",
+    "Year1": 1992,
+    "Country": "United Kingdom, Russian Federation, Italy, France, Netherlands",
+    "Director": "Directed bySally Potter",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "West of the Tracks",
+    "Year": "2002People's Republic of China",
+    "Year1": 2002,
+    "Country": "People's Republic of China",
+    "Director": "Directed byWang Bing",
+    "latitude": 35.0000663,
+    "longitude": 104.999955
+  },
+  {
+    "Films": "Le Bonheur",
+    "Year": "1965France",
+    "Year1": 1965,
+    "Country": "France",
+    "Director": "Directed byAgn\u00e8s Varda",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Meghe Dhaka Tara",
+    "Year": "1960India",
+    "Year1": 1960,
+    "Country": "India",
+    "Director": "Directed byRitwik Ghatak",
+    "latitude": 22.3511148,
+    "longitude": 78.6677428
+  },
+  {
+    "Films": "Days of Heaven",
+    "Year": "1978USA",
+    "Year1": 1978,
+    "Country": "USA",
+    "Director": "Directed byTerrence Malick",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "West Indies: The Fugitive Slaves of Liberty",
+    "Year": "1979France, Mauritania",
+    "Year1": 1979,
+    "Country": "France, Mauritania",
+    "Director": "Directed byMed Hondo",
+    "latitude": 48.8679424,
+    "longitude": 2.2746138563
+  },
+  {
+    "Films": "Twin Peaks: The Return",
+    "Year": "2017USA",
+    "Year1": 2017,
+    "Country": "USA",
+    "Director": "Directed byDavid Lynch",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Chinatown",
+    "Year": "1974USA",
+    "Year1": 1974,
+    "Country": "USA",
+    "Director": "Directed byRoman Polanski",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "La Grande Illusion",
+    "Year": "1937France",
+    "Year1": 1937,
+    "Country": "France",
+    "Director": "Directed byJean Renoir",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "India Song",
+    "Year": "1975France",
+    "Year1": 1975,
+    "Country": "France",
+    "Director": "Directed byMarguerite Duras",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Alien",
+    "Year": "1979USA, United Kingdom",
+    "Year1": 1979,
+    "Country": "USA, United Kingdom",
+    "Director": "Directed byRidley Scott",
+    "latitude": 52.2153827,
+    "longitude": 0.1258329
+  },
+  {
+    "Films": "Vampyr",
+    "Year": "1932Germany, France",
+    "Year1": 1932,
+    "Country": "Germany, France",
+    "Director": "Directed byCarl Th. Dreyer",
+    "latitude": 45.6143558,
+    "longitude": 4.6831358
+  },
+  {
+    "Films": "The Watermelon Woman",
+    "Year": "1997USA",
+    "Year1": 1997,
+    "Country": "USA",
+    "Director": "Directed byCheryl Dunye",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Gertrud",
+    "Year": "1964Denmark",
+    "Year1": 1964,
+    "Country": "Denmark",
+    "Director": "Directed byCarl Th. Dreyer",
+    "latitude": 55.670249,
+    "longitude": 10.3333283
+  },
+  {
+    "Films": "All That Heaven Allows",
+    "Year": "1955USA",
+    "Year1": 1955,
+    "Country": "USA",
+    "Director": "Directed byDouglas Sirk",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Partie de campagne",
+    "Year": "1936France",
+    "Year1": 1936,
+    "Country": "France",
+    "Director": "Directed byJean Renoir",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Pickpocket",
+    "Year": "1959France",
+    "Year1": 1959,
+    "Country": "France",
+    "Director": "Directed byRobert Bresson",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The Seventh Seal",
+    "Year": "1957Sweden",
+    "Year1": 1957,
+    "Country": "Sweden",
+    "Director": "Directed byIngmar Bergman",
+    "latitude": 59.6749712,
+    "longitude": 14.5208584
+  },
+  {
+    "Films": "Trouble in Paradise",
+    "Year": "1932USA",
+    "Year1": 1932,
+    "Country": "USA",
+    "Director": "Directed byErnst Lubitsch",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Sambizanga",
+    "Year": "1972Angola, France, Congo",
+    "Year1": 1972,
+    "Country": "Angola, France, Congo",
+    "Director": "Directed bySarah Maldoror",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "The Wild Bunch",
+    "Year": "1969USA",
+    "Year1": 1969,
+    "Country": "USA",
+    "Director": "Directed bySam Peckinpah",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Les Enfants du paradis",
+    "Year": "1945France",
+    "Year1": 1945,
+    "Country": "France",
+    "Director": "Directed byMarcel Carn\u00e9",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "La ci\u00e9naga",
+    "Year": "2001Argentina, USA, Japan, France, Switzerland, Spain, Brazil",
+    "Year1": 2001,
+    "Country": "Argentina, USA, Japan, France, Switzerland, Spain, Brazil",
+    "Director": "Directed byLucrecia Martel",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "It's a Wonderful Life",
+    "Year": "1947USA",
+    "Year1": 1947,
+    "Country": "USA",
+    "Director": "Directed byFrank Capra",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Notorious",
+    "Year": "1946USA",
+    "Year1": 1946,
+    "Country": "USA",
+    "Director": "Directed byAlfred Hitchcock",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Lawrence of Arabia",
+    "Year": "1962United Kingdom",
+    "Year1": 1962,
+    "Country": "United Kingdom",
+    "Director": "Directed byDavid Lean",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "Pulp Fiction",
+    "Year": "1994USA",
+    "Year1": 1994,
+    "Country": "USA",
+    "Director": "Directed byQuentin Tarantino",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Raging Bull",
+    "Year": "1980USA",
+    "Year1": 1980,
+    "Country": "USA",
+    "Director": "Directed byMartin Scorsese",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "His Girl Friday",
+    "Year": "1939USA",
+    "Year1": 1939,
+    "Country": "USA",
+    "Director": "Directed byHoward Hawks",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Fanny and Alexander",
+    "Year": "1982Sweden, France, Federal Republic of Germany",
+    "Year1": 1982,
+    "Country": "Sweden, France, Federal Republic of Germany",
+    "Director": "Directed byIngmar Bergman",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "The Ascent",
+    "Year": "1976USSR",
+    "Year1": 1976,
+    "Country": "USSR",
+    "Director": "Directed byLarissa Shepitko",
+    "latitude": 46.3421653,
+    "longitude": 48.0254474
+  },
+  {
+    "Films": "Only Angels Have Wings",
+    "Year": "1939USA",
+    "Year1": 1939,
+    "Country": "USA",
+    "Director": "Directed byHoward Hawks",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Umbrellas of Cherbourg",
+    "Year": "1964France, Federal Republic of Germany",
+    "Year1": 1964,
+    "Country": "France, Federal Republic of Germany",
+    "Director": "Directed byJacques Demy",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Johnny Guitar",
+    "Year": "1954USA",
+    "Year1": 1954,
+    "Country": "USA",
+    "Director": "Directed byNicholas Ray",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Colour of Pomegranates",
+    "Year": "1968USSR, Armenian SSR",
+    "Year1": 1968,
+    "Country": "USSR, Armenian SSR",
+    "Director": "Directed bySergei Paradjanov",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "The Matrix",
+    "Year": "1999USA, Australia",
+    "Year1": 1999,
+    "Country": "USA, Australia",
+    "Director": "Directed byThe Wachowskis",
+    "latitude": 38.26083395,
+    "longitude": -104.6595113652
+  },
+  {
+    "Films": "There Will Be Blood",
+    "Year": "2007USA",
+    "Year1": 2007,
+    "Country": "USA",
+    "Director": "Directed byPaul Thomas Anderson",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Thing",
+    "Year": "1982USA",
+    "Year1": 1982,
+    "Country": "USA",
+    "Director": "Directed byJohn Carpenter",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Texas Chain Saw Massacre",
+    "Year": "1974USA",
+    "Year1": 1974,
+    "Country": "USA",
+    "Director": "Directed byTobe Hooper",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Conformist",
+    "Year": "1970Italy, France, Federal Republic of Germany",
+    "Year1": 1970,
+    "Country": "Italy, France, Federal Republic of Germany",
+    "Director": "Directed byBernardo Bertolucci",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Aguirre, Wrath of God",
+    "Year": "1972Federal Republic of Germany",
+    "Year1": 1972,
+    "Country": "Federal Republic of Germany",
+    "Director": "Directed byWerner Herzog",
+    "latitude": 51.1638175,
+    "longitude": 10.4478313
+  },
+  {
+    "Films": "Don't Look Now",
+    "Year": "1973United Kingdom, Italy",
+    "Year1": 1973,
+    "Country": "United Kingdom, Italy",
+    "Director": "Directed byNicolas Roeg",
+    "latitude": 54.7690311,
+    "longitude": -1.5914109
+  },
+  {
+    "Films": "Nashville",
+    "Year": "1975USA",
+    "Year1": 1975,
+    "Country": "USA",
+    "Director": "Directed byRobert Altman",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "A Woman under the Influence",
+    "Year": "1974USA",
+    "Year1": 1974,
+    "Country": "USA",
+    "Director": "Directed byJohn Cassavetes",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "To Be or Not to Be",
+    "Year": "1942USA",
+    "Year1": 1942,
+    "Country": "USA",
+    "Director": "Directed byErnst Lubitsch",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Bringing Up Baby",
+    "Year": "1938USA",
+    "Year1": 1938,
+    "Country": "USA",
+    "Director": "Directed byHoward Hawks",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Man Who Shot Liberty Valance",
+    "Year": "1962USA",
+    "Year1": 1962,
+    "Country": "USA",
+    "Director": "Directed byJohn Ford",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Touch of Evil",
+    "Year": "1958USA",
+    "Year1": 1958,
+    "Country": "USA",
+    "Director": "Directed byOrson Welles",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Wild Strawberries",
+    "Year": "1957Sweden",
+    "Year1": 1957,
+    "Country": "Sweden",
+    "Director": "Directed byIngmar Bergman",
+    "latitude": 59.6749712,
+    "longitude": 14.5208584
+  },
+  {
+    "Films": "The Wizard of Oz",
+    "Year": "1939USA",
+    "Year1": 1939,
+    "Country": "USA",
+    "Director": "Directed byVictor Fleming",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Goodbye, Dragon Inn",
+    "Year": "2003Taiwan",
+    "Year1": 2003,
+    "Country": "Taiwan",
+    "Director": "Directed byTsai Ming-liang",
+    "latitude": 23.5983227,
+    "longitude": 120.8353769448
+  },
+  {
+    "Films": "The Godfather Part II",
+    "Year": "1974USA",
+    "Year1": 1974,
+    "Country": "USA",
+    "Director": "Directed byFrancis Ford Coppola",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Jaws",
+    "Year": "1975USA",
+    "Year1": 1975,
+    "Country": "USA",
+    "Director": "Directed bySteven Spielberg",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Come and See",
+    "Year": "1985USSR, Byelorussian SSR",
+    "Year1": 1985,
+    "Country": "USSR, Byelorussian SSR",
+    "Director": "Directed byElem Klimov",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "La Maman et la Putain",
+    "Year": "1973France",
+    "Year1": 1973,
+    "Country": "France",
+    "Director": "Directed byJean Eustache",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Vagabond",
+    "Year": "1985France, United Kingdom",
+    "Year1": 1985,
+    "Country": "France, United Kingdom",
+    "Director": "Directed byAgn\u00e8s Varda",
+    "latitude": 51.4644439,
+    "longitude": -0.6520573028
+  },
+  {
+    "Films": "The House Is Black",
+    "Year": "1962Iran",
+    "Year1": 1962,
+    "Country": "Iran",
+    "Director": "Directed byForough Farokhzad",
+    "latitude": 32.6475314,
+    "longitude": 54.5643516
+  },
+  {
+    "Films": "Rio Bravo",
+    "Year": "1958USA",
+    "Year1": 1958,
+    "Country": "USA",
+    "Director": "Directed byHoward Hawks",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Once upon a Time in the West",
+    "Year": "1968Italy, USA",
+    "Year1": 1968,
+    "Country": "Italy, USA",
+    "Director": "Directed bySergio Leone",
+    "latitude": 32.1840381,
+    "longitude": -96.8847194
+  },
+  {
+    "Films": "A Man Escaped",
+    "Year": "1956France",
+    "Year1": 1956,
+    "Country": "France",
+    "Director": "Directed byRobert Bresson",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The General",
+    "Year": "1926USA",
+    "Year1": 1926,
+    "Country": "USA",
+    "Director": "Directed byBuster Keaton, Clyde Bruckman",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Black Girl",
+    "Year": "1965Senegal, France",
+    "Year1": 1965,
+    "Country": "Senegal, France",
+    "Director": "Directed byOusmane Semb\u00e8ne",
+    "latitude": 48.8618315,
+    "longitude": 2.3069800563
+  },
+  {
+    "Films": "Tropical Malady",
+    "Year": "2004France, Thailand, Germany, Italy, Switzerland",
+    "Year1": 2004,
+    "Country": "France, Thailand, Germany, Italy, Switzerland",
+    "Director": "Directed byApichatpong Weerasethakul",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Get Out",
+    "Year": "2017USA, Japan",
+    "Year1": 2017,
+    "Country": "USA, Japan",
+    "Director": "Directed byJordan Peele",
+    "latitude": 40.9921996,
+    "longitude": -75.9078749
+  },
+  {
+    "Films": "Parasite",
+    "Year": "2019Republic of Korea",
+    "Year1": 2019,
+    "Country": "Republic of Korea",
+    "Director": "Directed byBong Joon-ho",
+    "latitude": 36.638392,
+    "longitude": 127.6961188
+  },
+  {
+    "Films": "Yi Yi",
+    "Year": "1999Taiwan, Japan",
+    "Year1": 1999,
+    "Country": "Taiwan, Japan",
+    "Director": "Directed byEdward Yang",
+    "latitude": 35.63753835,
+    "longitude": 139.7218629744
+  },
+  {
+    "Films": "Ugetsu Monogatari",
+    "Year": "1953Japan",
+    "Year1": 1953,
+    "Country": "Japan",
+    "Director": "Directed byKenji Mizoguchi",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "The Leopard",
+    "Year": "1962Italy, France",
+    "Year1": 1962,
+    "Country": "Italy, France",
+    "Director": "Directed byLuchino Visconti",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Madame de...",
+    "Year": "1953France, Italy",
+    "Year1": 1953,
+    "Country": "France, Italy",
+    "Director": "Directed byMax Ophuls",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "The Shining",
+    "Year": "1980USA, United Kingdom",
+    "Year1": 1980,
+    "Country": "USA, United Kingdom",
+    "Director": "Directed byStanley Kubrick",
+    "latitude": 52.2153827,
+    "longitude": 0.1258329
+  },
+  {
+    "Films": "CHUNGKING EXPRESS",
+    "Year": "1994Hong Kong",
+    "Year1": 1994,
+    "Country": "Hong Kong",
+    "Director": "Directed byWong Kar Wai",
+    "latitude": 22.350627,
+    "longitude": 114.1849161
+  },
+  {
+    "Films": "Blue Velvet",
+    "Year": "1986USA",
+    "Year1": 1986,
+    "Country": "USA",
+    "Director": "Directed byDavid Lynch",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Spirit of the Beehive",
+    "Year": "1973Spain",
+    "Year1": 1973,
+    "Country": "Spain",
+    "Director": "Directed byV\u00edctor Erice",
+    "latitude": 39.3260685,
+    "longitude": -4.8379791
+  },
+  {
+    "Films": "Pierrot le fou",
+    "Year": "1965France, Italy",
+    "Year1": 1965,
+    "Country": "France, Italy",
+    "Director": "Directed byJean-Luc Godard",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Histoire(s) du Cin\u00e9ma",
+    "Year": "1988France, Switzerland",
+    "Year1": 1988,
+    "Country": "France, Switzerland",
+    "Director": "Directed byJean-Luc Godard",
+    "latitude": 48.58896225,
+    "longitude": 7.7678483472
+  },
+  {
+    "Films": "A Matter of Life and Death",
+    "Year": "1946United Kingdom",
+    "Year1": 1946,
+    "Country": "United Kingdom",
+    "Director": "Directed byMichael Powell, Emeric Pressburger",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "Modern Times",
+    "Year": "1936USA",
+    "Year1": 1936,
+    "Country": "USA",
+    "Director": "Directed byCharles Chaplin",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Sunset Blvd.",
+    "Year": "1950USA",
+    "Year1": 1950,
+    "Country": "USA",
+    "Director": "Directed byBilly Wilder",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "C\u00e9line and Julie Go Boating",
+    "Year": "1974France",
+    "Year1": 1974,
+    "Country": "France",
+    "Director": "Directed byJacques Rivette",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "A Brighter Summer Day",
+    "Year": "1991Taiwan",
+    "Year1": 1991,
+    "Country": "Taiwan",
+    "Director": "Directed byEdward Yang",
+    "latitude": 23.5983227,
+    "longitude": 120.8353769448
+  },
+  {
+    "Films": "S\u00e1t\u00e1ntang\u00f3",
+    "Year": "1994Hungary, Germany, Switzerland",
+    "Year1": 1994,
+    "Country": "Hungary, Germany, Switzerland",
+    "Director": "Directed byB\u00e9la Tarr",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Spirited Away",
+    "Year": "2001Japan",
+    "Year1": 2001,
+    "Country": "Japan",
+    "Director": "Directed byHayao Miyazaki",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "Sansho the Bailiff",
+    "Year": "1954Japan",
+    "Year1": 1954,
+    "Country": "Japan",
+    "Director": "Directed byKenji Mizoguchi",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "Imitation of Life",
+    "Year": "1959USA",
+    "Year1": 1959,
+    "Country": "USA",
+    "Director": "Directed byDouglas Sirk",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "L'avventura",
+    "Year": "1960Italy, France",
+    "Year1": 1960,
+    "Country": "Italy, France",
+    "Director": "Directed byMichelangelo Antonioni",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Journey to Italy",
+    "Year": "1954Italy, France",
+    "Year1": 1954,
+    "Country": "Italy, France",
+    "Director": "Directed byRoberto Rossellini",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "My Neighbour Totoro",
+    "Year": "1988Japan",
+    "Year1": 1988,
+    "Country": "Japan",
+    "Director": "Directed byHayao Miyazaki",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "The Red Shoes",
+    "Year": "1948United Kingdom",
+    "Year1": 1948,
+    "Country": "United Kingdom",
+    "Director": "Directed byMichael Powell, Emeric Pressburger",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "Metropolis",
+    "Year": "1927Germany",
+    "Year1": 1927,
+    "Country": "Germany",
+    "Director": "Directed byFritz Lang",
+    "latitude": 51.1638175,
+    "longitude": 10.4478313
+  },
+  {
+    "Films": "Andrei Rublev",
+    "Year": "1966USSR",
+    "Year1": 1966,
+    "Country": "USSR",
+    "Director": "Directed byAndrei Tarkovsky",
+    "latitude": 46.3421653,
+    "longitude": 48.0254474
+  },
+  {
+    "Films": "La Jet\u00e9e",
+    "Year": "1962France",
+    "Year1": 1962,
+    "Country": "France",
+    "Director": "Directed byChris Marker",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The Gleaners and I",
+    "Year": "2000France",
+    "Year1": 2000,
+    "Country": "France",
+    "Director": "Directed byAgn\u00e8s Varda",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Touki Bouki",
+    "Year": "1973Senegal",
+    "Year1": 1973,
+    "Country": "Senegal",
+    "Director": "Directed byDjibril Diop Mamb\u00e9ty",
+    "latitude": 14.4750607,
+    "longitude": -14.4529612
+  },
+  {
+    "Films": "The Third Man",
+    "Year": "1949United Kingdom",
+    "Year1": 1949,
+    "Country": "United Kingdom",
+    "Director": "Directed byCarol Reed",
+    "latitude": 54.7023545,
+    "longitude": -3.2765753
+  },
+  {
+    "Films": "GoodFellas",
+    "Year": "1990USA",
+    "Year1": 1990,
+    "Country": "USA",
+    "Director": "Directed byMartin Scorsese",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Casablanca",
+    "Year": "1942USA",
+    "Year1": 1942,
+    "Country": "USA",
+    "Director": "Directed byMichael Curtiz",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Daughters of the Dust",
+    "Year": "1991USA",
+    "Year1": 1991,
+    "Country": "USA",
+    "Director": "Directed byJulie Dash",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "La dolce vita",
+    "Year": "1960Italy, France",
+    "Year1": 1960,
+    "Country": "Italy, France",
+    "Director": "Directed byFederico Fellini",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Moonlight",
+    "Year": "2016USA",
+    "Year1": 2016,
+    "Country": "USA",
+    "Director": "Directed byBarry Jenkins",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Sans soleil",
+    "Year": "1982France",
+    "Year1": 1982,
+    "Country": "France",
+    "Director": "Directed byChris Marker",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The Apartment",
+    "Year": "1960USA",
+    "Year1": 1960,
+    "Country": "USA",
+    "Director": "Directed byBilly Wilder",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Sherlock Jr.",
+    "Year": "1924USA",
+    "Year1": 1924,
+    "Country": "USA",
+    "Director": "Directed byBuster Keaton",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Le M\u00e9pris",
+    "Year": "1963France, Italy",
+    "Year1": 1963,
+    "Country": "France, Italy",
+    "Director": "Directed byJean-Luc Godard",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Battleship Potemkin",
+    "Year": "1925USSR",
+    "Year1": 1925,
+    "Country": "USSR",
+    "Director": "Directed bySergei M. Eisenstein",
+    "latitude": 46.3421653,
+    "longitude": 48.0254474
+  },
+  {
+    "Films": "Blade Runner",
+    "Year": "1982USA, Hong Kong",
+    "Year1": 1982,
+    "Country": "USA, Hong Kong",
+    "Director": "Directed byRidley Scott",
+    "latitude": 18.3848631,
+    "longitude": -65.8285201
+  },
+  {
+    "Films": "News from Home",
+    "Year": "1976France, Belgium",
+    "Year1": 1976,
+    "Country": "France, Belgium",
+    "Director": "Directed byChantal Akerman",
+    "latitude": 50.5265703,
+    "longitude": 5.3579683
+  },
+  {
+    "Films": "Fear Eats the Soul",
+    "Year": "1974Federal Republic of Germany",
+    "Year1": 1974,
+    "Country": "Federal Republic of Germany",
+    "Director": "Directed byRainer Werner Fassbinder",
+    "latitude": 51.1638175,
+    "longitude": 10.4478313
+  },
+  {
+    "Films": "The Piano",
+    "Year": "1992Australia, France",
+    "Year1": 1992,
+    "Country": "Australia, France",
+    "Director": "Directed byJane Campion",
+    "latitude": 47.7460818,
+    "longitude": -3.3645011
+  },
+  {
+    "Films": "The 400 Blows",
+    "Year": "1959France",
+    "Year1": 1959,
+    "Country": "France",
+    "Director": "Directed byFran\u00e7ois Truffaut",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Ordet",
+    "Year": "1955Denmark",
+    "Year1": 1955,
+    "Country": "Denmark",
+    "Director": "Directed byCarl Th. Dreyer",
+    "latitude": 55.670249,
+    "longitude": 10.3333283
+  },
+  {
+    "Films": "Wanda",
+    "Year": "1970USA",
+    "Year1": 1970,
+    "Country": "USA",
+    "Director": "Directed byBarbara Loden",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Barry Lyndon",
+    "Year": "1975USA, United Kingdom",
+    "Year1": 1975,
+    "Country": "USA, United Kingdom",
+    "Director": "Directed byStanley Kubrick",
+    "latitude": 52.2153827,
+    "longitude": 0.1258329
+  },
+  {
+    "Films": "North by Northwest",
+    "Year": "1959USA",
+    "Year1": 1959,
+    "Country": "USA",
+    "Director": "Directed byAlfred Hitchcock",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Battle of Algiers",
+    "Year": "1966Italy, Algeria",
+    "Year1": 1966,
+    "Country": "Italy, Algeria",
+    "Director": "Directed byGillo Pontecorvo",
+    "latitude": 41.9124845,
+    "longitude": 12.5096467923
+  },
+  {
+    "Films": "Stalker",
+    "Year": "1979USSR",
+    "Year1": 1979,
+    "Country": "USSR",
+    "Director": "Directed byAndrei Tarkovsky",
+    "latitude": 46.3421653,
+    "longitude": 48.0254474
+  },
+  {
+    "Films": "Killer of Sheep",
+    "Year": "1977USA",
+    "Year1": 1977,
+    "Country": "USA",
+    "Director": "Directed byCharles Burnett",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Rashomon",
+    "Year": "1950Japan",
+    "Year1": 1950,
+    "Country": "Japan",
+    "Director": "Directed byAkira Kurosawa",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "Bicycle Thieves",
+    "Year": "1948Italy",
+    "Year1": 1948,
+    "Country": "Italy",
+    "Director": "Directed byVittorio De Sica",
+    "latitude": 42.6384261,
+    "longitude": 12.674297
+  },
+  {
+    "Films": "Rear Window",
+    "Year": "1954USA",
+    "Year1": 1954,
+    "Country": "USA",
+    "Director": "Directed byAlfred Hitchcock",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "\u00c0 bout de souffle",
+    "Year": "1960France",
+    "Year1": 1960,
+    "Country": "France",
+    "Director": "Directed byJean-Luc Godard",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Some Like It Hot",
+    "Year": "1959USA",
+    "Year1": 1959,
+    "Country": "USA",
+    "Director": "Directed byBilly Wilder",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "M",
+    "Year": "1931Germany",
+    "Year1": 1931,
+    "Country": "Germany",
+    "Director": "Directed byFritz Lang",
+    "latitude": 51.1638175,
+    "longitude": 10.4478313
+  },
+  {
+    "Films": "City Lights",
+    "Year": "1931USA",
+    "Year1": 1931,
+    "Country": "USA",
+    "Director": "Directed byCharles Chaplin",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Pather Panchali",
+    "Year": "1955India",
+    "Year1": 1955,
+    "Country": "India",
+    "Director": "Directed bySatyajit Ray",
+    "latitude": 22.3511148,
+    "longitude": 78.6677428
+  },
+  {
+    "Films": "L'Atalante",
+    "Year": "1934France",
+    "Year1": 1934,
+    "Country": "France",
+    "Director": "Directed byJean Vigo",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "8\u00bd",
+    "Year": "1963Italy, France",
+    "Year1": 1963,
+    "Country": "Italy, France",
+    "Director": "Directed byFederico Fellini",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "Psycho",
+    "Year": "1960USA",
+    "Year1": 1960,
+    "Country": "USA",
+    "Director": "Directed byAlfred Hitchcock",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Mirror",
+    "Year": "1975USSR",
+    "Year1": 1975,
+    "Country": "USSR",
+    "Director": "Directed byAndrei Tarkovsky",
+    "latitude": 46.3421653,
+    "longitude": 48.0254474
+  },
+  {
+    "Films": "Portrait of a Lady on Fire",
+    "Year": "2019France",
+    "Year1": 2019,
+    "Country": "France",
+    "Director": "Directed byC\u00e9line Sciamma",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Taxi Driver",
+    "Year": "1976USA",
+    "Year1": 1976,
+    "Country": "USA",
+    "Director": "Directed byMartin Scorsese",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Daisies",
+    "Year": "1966Czechoslovakia",
+    "Year1": 1966,
+    "Country": "Czechoslovakia",
+    "Director": "Directed byV\u011bra Chytilov\u00e1",
+    "latitude": 48.257918,
+    "longitude": 14.5007688
+  },
+  {
+    "Films": "Shoah",
+    "Year": "1985France",
+    "Year1": 1985,
+    "Country": "France",
+    "Director": "Directed byClaude Lanzmann",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The Night of the Hunter",
+    "Year": "1955USA",
+    "Year1": 1955,
+    "Country": "USA",
+    "Director": "Directed byCharles Laughton",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Au hasard Balthazar",
+    "Year": "1966France, Sweden",
+    "Year1": 1966,
+    "Country": "France, Sweden",
+    "Director": "Directed byRobert Bresson",
+    "latitude": 48.8534987,
+    "longitude": 2.3177448
+  },
+  {
+    "Films": "Do the Right Thing",
+    "Year": "1989USA",
+    "Year1": 1989,
+    "Country": "USA",
+    "Director": "Directed bySpike Lee",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Playtime",
+    "Year": "1967France",
+    "Year1": 1967,
+    "Country": "France",
+    "Director": "Directed byJacques Tati",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Late Spring",
+    "Year": "1949Japan",
+    "Year1": 1949,
+    "Country": "Japan",
+    "Director": "Directed byYasujir\u014d Ozu",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "The Passion of Joan of Arc",
+    "Year": "1927France",
+    "Year1": 1927,
+    "Country": "France",
+    "Director": "Directed byCarl Th. Dreyer",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "Seven Samurai",
+    "Year": "1954Japan",
+    "Year1": 1954,
+    "Country": "Japan",
+    "Director": "Directed byAkira Kurosawa",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "Apocalypse Now",
+    "Year": "1979USA",
+    "Year1": 1979,
+    "Country": "USA",
+    "Director": "Directed byFrancis Ford Coppola",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Persona",
+    "Year": "1966Sweden",
+    "Year1": 1966,
+    "Country": "Sweden",
+    "Director": "Directed byIngmar Bergman",
+    "latitude": 59.6749712,
+    "longitude": 14.5208584
+  },
+  {
+    "Films": "Close-up",
+    "Year": "1989Iran",
+    "Year1": 1989,
+    "Country": "Iran",
+    "Director": "Directed byAbbas Kiarostami",
+    "latitude": 32.6475314,
+    "longitude": 54.5643516
+  },
+  {
+    "Films": "Meshes of the Afternoon",
+    "Year": "1943USA",
+    "Year1": 1943,
+    "Country": "USA",
+    "Director": "Directed byMaya Deren, Alexander Hackenschmied",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "The Searchers",
+    "Year": "1956USA",
+    "Year1": 1956,
+    "Country": "USA",
+    "Director": "Directed byJohn Ford",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Cl\u00e9o from 5 to 7",
+    "Year": "1962France, Italy",
+    "Year1": 1962,
+    "Country": "France, Italy",
+    "Director": "Directed byAgn\u00e8s Varda",
+    "latitude": 45.8319718,
+    "longitude": 7.7395665
+  },
+  {
+    "Films": "La R\u00e8gle du jeu",
+    "Year": "1939France",
+    "Year1": 1939,
+    "Country": "France",
+    "Director": "Directed byJean Renoir",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "The Godfather",
+    "Year": "1972USA",
+    "Year1": 1972,
+    "Country": "USA",
+    "Director": "Directed byFrancis Ford Coppola",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Sunrise  A Song of Two Humans",
+    "Year": "1927USA",
+    "Year1": 1927,
+    "Country": "USA",
+    "Director": "Directed byF.W. Murnau",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Singin' in the Rain",
+    "Year": "1951USA",
+    "Year1": 1951,
+    "Country": "USA",
+    "Director": "Directed byGene Kelly, Stanley Donen",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Man with a Movie Camera",
+    "Year": "1929Ukrainian SSR, USSR",
+    "Year1": 1929,
+    "Country": "Ukrainian SSR, USSR",
+    "Director": "Directed byDziga Vertov",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "Films": "Mulholland Dr.",
+    "Year": "2001France, USA",
+    "Year1": 2001,
+    "Country": "France, USA",
+    "Director": "Directed byDavid Lynch",
+    "latitude": 32.7569047,
+    "longitude": -97.0696914
+  },
+  {
+    "Films": "Beau travail",
+    "Year": "1998France",
+    "Year1": 1998,
+    "Country": "France",
+    "Director": "Directed byClaire Denis",
+    "latitude": 46.603354,
+    "longitude": 1.8883335
+  },
+  {
+    "Films": "2001: A Space Odyssey",
+    "Year": "1968USA, United Kingdom",
+    "Year1": 1968,
+    "Country": "USA, United Kingdom",
+    "Director": "Directed byStanley Kubrick",
+    "latitude": 52.2153827,
+    "longitude": 0.1258329
+  },
+  {
+    "Films": "In the Mood for Love",
+    "Year": "2000Hong Kong, France",
+    "Year1": 2000,
+    "Country": "Hong Kong, France",
+    "Director": "Directed byWong Kar Wai",
+    "latitude": 48.876213,
+    "longitude": 2.3456817
+  },
+  {
+    "Films": "Tokyo Story",
+    "Year": "1953Japan",
+    "Year1": 1953,
+    "Country": "Japan",
+    "Director": "Directed byYasujir\u014d Ozu",
+    "latitude": 36.5748441,
+    "longitude": 139.2394179
+  },
+  {
+    "Films": "Citizen Kane",
+    "Year": "1941USA",
+    "Year1": 1941,
+    "Country": "USA",
+    "Director": "Directed byOrson Welles",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Vertigo",
+    "Year": "1958USA",
+    "Year1": 1958,
+    "Country": "USA",
+    "Director": "Directed byAlfred Hitchcock",
+    "latitude": 39.7837304,
+    "longitude": -100.445882
+  },
+  {
+    "Films": "Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles",
+    "Year": "1975Belgium, France",
+    "Year1": 1975,
+    "Country": "Belgium, France",
+    "Director": "Directed byChantal Akerman",
+    "latitude": 50.5265703,
+    "longitude": 5.3579683
+  }
+]

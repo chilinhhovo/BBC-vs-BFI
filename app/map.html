@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Movie Locations</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Include Mapbox GL and jQuery -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.7.0/mapbox-gl.css' rel='stylesheet' />
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+
+    <!-- CSS for styling -->
+    <style>
+        body {
+            display: flex;
+        }
+
+        #select-menu {
+            position: absolute;
+            left: 50px;
+            top: 10px;
+            z-index: 10;
+        }
+
+        #headPlace {
+            position: absolute;
+            right: 0px;
+            top: 0px;
+            z-index: 10;
+            padding: 10px;
+            width: 200px;
+            background-color: #DDDDDD;
+        }
+
+        #map,
+        #articlePlace {
+            flex: 1;
+            height: calc(100vh - 30px);
+            overflow: scroll;
+            margin: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id='map'>
+        <div id="dropdown">
+            <select id="select-menu">
+                <option value="">All Directors</option>
+            </select>
+        </div>
+        <div id='headPlace'>Rollover to get info</div>
+    </div>
+
+    <div id='articlePlace'>All your text can go here.</div>
+
+    <!-- Link to the GeoJSON data file -->
+    <script type="text/javascript" src="geo-dataAGAIN.js"></script>
+
+    <script type="text/javascript" src="geo-dataAGAIN.js"></script>
+    <script type="text/javascript" src="bfi-geo-data.js"></script>
+
+    <!-- Map and Interactivity Script -->
+    <script type="text/javascript">
+        mapboxgl.accessToken = 'pk.eyJ1IjoianRoaXJraWVsZCIsImEiOiJjbHA4ZjhvbW4yNDRvMmtvODVrdGk2b3NsIn0.qlZ1BN9uoVofxfrQhq8TwQ';
+
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/dark-v11',
+            center: [0, 20],
+            zoom: 2,
+            projection: 'naturalEarth'
+        });
+
+        map.addControl(new mapboxgl.NavigationControl(), 'top-left');
+
+        var popup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false });
+
+        map.on('load', function () {
+            map.addSource('movies', {
+                type: 'geojson',
+                data: infoData
+            });
+
+            map.addLayer({
+                id: "movie-locations",
+                type: "circle",
+                source: "movies",
+                paint: {
+                    "circle-radius": 6,
+                    "circle-color": "#FF5733",
+                    "circle-stroke-color": "#FFFFFF",
+                    "circle-stroke-width": 2
+                }
+            });
+
+			map.on('click', 'movie-locations', function (e) {
+    			var feature = e.features[0];
+    			var birthplace = feature.properties.birthplace || "Unknown";
+    			var movie = feature.properties.movie || "Unknown";
+
+   		 		new mapboxgl.Popup()
+        			.setLngLat(feature.geometry.coordinates)
+        			.setHTML(`<h3>${birthplace}</h3><p>Movie: ${movie}</p>`)
+        			.addTo(map);
+			});
+
+            // Change cursor to pointer on hover
+            map.on('mouseenter', 'movie-locations', function () {
+                map.getCanvas().style.cursor = 'pointer';
+            });
+
+            map.on('mouseleave', 'movie-locations', function () {
+                map.getCanvas().style.cursor = '';
+            });
+
+            // Add dropdown menu functionality
+            var groupsObj = {};
+            infoData.features.forEach(function (feature) {
+                groupsObj[feature.properties.group_name] = feature.properties.group_name;
+            });
+
+            // Populate dropdown menu
+            $.each(groupsObj, function (key, value) {
+                $('#select-menu')
+                    .append($("<option></option>")
+                        .attr("value", value)
+                        .text(value));
+            });
+
+            // Filter map by dropdown selection
+            $('#select-menu').change(function () {
+                var selectedGroup = $('#select-menu').val();
+
+                if (!selectedGroup) {
+                    map.setFilter('movie-locations', null);
+                } else {
+                    map.setFilter('movie-locations', ['==', ['get', 'group_name'], selectedGroup]);
+                }
+            });
+        });
+    </script>
+
+</body>
+
+</html>
